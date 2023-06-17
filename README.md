@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning TUDAI (Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas) in UNICEN Quequen
 - 💞️ I’m looking to collaborate on Tech Industries
 - 📫 How to reach me:
-- Linkedin: https://www.linkedin.com/in/amparo-rosell-098a13221/
+- Linkedin: https://www.linkedin.com/in/amparoRosell/
 - Gmail: amc.vonwu@gmail.com
 
 <!---
